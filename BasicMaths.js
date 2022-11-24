@@ -22,3 +22,4 @@ class BasicMaths {
         return this.num1 * this.num2
     }
 }
+module.exports = BasicMaths
